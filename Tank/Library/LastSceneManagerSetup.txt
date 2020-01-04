@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scense/01-tank.unity
+  isLoaded: 1
+  isActive: 1
